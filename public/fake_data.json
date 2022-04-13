@@ -1,0 +1,59 @@
+{
+    "posts": [
+        {
+            "title": "Post 1",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the first post",
+            "body": "This is the body of post 1",
+            "timestamp": "2018-01-01T00:00:00.000Z"
+        },
+        {
+            "title": "Post 2",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the second post",
+            "body": "This is the body of post 2",
+            "timestamp": "2018-01-02T00:00:00.000Z"
+        },
+        {
+            "title": "Post 3",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the third post",
+            "body": "This is the body of post 3",
+            "timestamp": "2018-01-03T00:00:00.000Z"
+        }
+    ],
+    "works": [
+        {
+            "title": "Work 1",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the first work",
+            "image": "https://via.placeholder.com/300x300",
+            "timestamp": "2018-01-01T00:00:00.000Z",
+            "link": "https://www.google.com"
+        },
+        {
+            "title": "Work 2",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the second work",
+            "image": "https://via.placeholder.com/300x300",
+            "timestamp": "2018-01-02T00:00:00.000Z",
+            "link": "https://www.google.com"
+        },
+        {
+            "title": "Work 3",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the third work",
+            "image": "https://via.placeholder.com/300x300",
+            "timestamp": "2018-01-03T00:00:00.000Z",
+            "link": "https://www.google.com"
+        },
+        {
+            "title": "Work 4",
+            "tags": ["tag1", "tag2"],
+            "description": "This is the fourth work",
+            "image": "https://via.placeholder.com/300x300",
+            "timestamp": "2018-01-04T00:00:00.000Z",
+            "link": "https://www.google.com"
+        }
+    ]
+}
